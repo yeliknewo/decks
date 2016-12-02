@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Reflecting Pool"/>
+        <card number="4" price="0" name="Rupture Spire"/>
+        <card number="4" price="0" name="Mana Confluence"/>
+        <card number="4" price="0" name="Holdout Settlement"/>
+        <card number="4" price="0" name="Tendo Ice Bridge"/>
+    </zone>
+</cockatrice_deck>
