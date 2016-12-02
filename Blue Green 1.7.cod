@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Blue Green</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" price="0" name="Island"/>
+        <card number="10" price="0" name="Forest"/>
+        <card number="4" price="0" name="Coiling Oracle"/>
+        <card number="4" price="0" name="Embodiment of Spring"/>
+        <card number="4" price="0" name="Kiora's Follower"/>
+        <card number="3" price="0" name="Progenitor Mimic"/>
+        <card number="2" price="0" name="Fable of Wolf and Owl"/>
+        <card number="2" price="0" name="Favor of the Overbeing"/>
+        <card number="2" price="0" name="Plasm Capture"/>
+        <card number="2" price="0" name="Snakeform"/>
+        <card number="2" price="0" name="Sagu Mauler"/>
+        <card number="2" price="0" name="Voidslime"/>
+        <card number="2" price="0" name="Syncopate"/>
+        <card number="2" price="0" name="Prophet of Kruphix"/>
+        <card number="1" price="0" name="Kiora, the Crashing Wave"/>
+        <card number="2" price="0" name="Nullify"/>
+        <card number="4" price="0" name="Early Frost"/>
+        <card number="2" price="0" name="Echoing Truth"/>
+        <card number="1" price="0" name="Altered Ego"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Kozilek, Butcher of Truth"/>
+        <card number="4" price="0" name="Piracy Charm"/>
+        <card number="4" price="0" name="Zameck Guildmage"/>
+        <card number="2" price="0" name="Biomass Mutation"/>
+        <card number="2" price="0" name="Plasm Capture"/>
+        <card number="2" price="0" name="Snakeform"/>
+        <card number="1" price="0" name="Progenitor Mimic"/>
+        <card number="2" price="0" name="Echoing Truth"/>
+        <card number="2" price="0" name="Nullify"/>
+        <card number="2" price="0" name="Syncopate"/>
+        <card number="2" price="0" name="Biomantic Mastery"/>
+        <card number="2" price="0" name="Favor of the Overbeing"/>
+    </zone>
+</cockatrice_deck>
