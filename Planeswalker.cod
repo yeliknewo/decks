@@ -8,7 +8,7 @@
         <card number="4" price="0" name="Mana Confluence"/>
         <card number="4" price="0" name="Holdout Settlement"/>
         <card number="4" price="0" name="Tendo Ice Bridge"/>
-        <card number="4" price="0" name="Intervention Pact"/>
+        <card number="2" price="0" name="Intervention Pact"/>
         <card number="1" price="0" name="Nissa, Voice of Zendikar"/>
         <card number="1" price="0" name="Ashiok, Nightmare Weaver"/>
         <card number="1" price="0" name="Jace Beleren"/>
@@ -33,13 +33,17 @@
         <card number="1" price="0" name="Nicol Bolas, Planeswalker"/>
         <card number="1" price="0" name="Ugin, the Spirit Dragon"/>
         <card number="4" price="0" name="Boros Fury-Shield"/>
-        <card number="4" price="0" name="Aetherize"/>
+        <card number="2" price="0" name="Aetherize"/>
         <card number="1" price="0" name="Appetite for Brains"/>
-        <card number="4" price="0" name="Dispel"/>
+        <card number="4" price="0" name="Warping Wail"/>
+        <card number="4" price="0" name="Insidious Will"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Domri Rade"/>
         <card number="1" price="0" name="Despise"/>
         <card number="2" price="0" name="Immolating Glare"/>
+        <card number="4" price="0" name="Dispel"/>
+        <card number="2" price="0" name="Aetherize"/>
+        <card number="2" price="0" name="Intervention Pact"/>
     </zone>
 </cockatrice_deck>
